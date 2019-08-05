@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AssignDeliveryPerson</string>
+    <string name="textView2">Order_ID</string>
+    <string name="textView4">Customer Name</string>
+    <string name="textView5">Customer Contact No</string>
+    <string name="textView6">Address</string>
+    <string name="textView7">Proceed Order</string>
+    <string name="button">Proceed</string>
+    <string name="textView3">View Delivery Orders</string>
+    <string name="textView8">Order ID 12</string>
+    <string name="textView9">Narawala,Matara</string>
+    <string name="textView10">Oshad AV</string>
+    <string name="textView11">Nawala,Kandy</string>
+    <string name="textView12">Maitipe,Galle</string>
+    <string name="textView13">Order ID 13</string>
+    <string name="textView14">Order ID 14</string>
+    <string name="textView15">Order ID 16</string>
+    <string name="button5">Select Delivery</string>
+    <string name="textView16">Order Placed Successfully</string>
+    <string name="textView17">Order ID</string>
+    <string name="button4">Delivery Confirm</string>
+</resources>
